@@ -1,12 +1,19 @@
 # Facebook Login Page UI Clone
 
-This project is a clone of the Facebook login page, created using HTML and styled with Tailwind CSS. The purpose of this project is to demonstrate how to recreate the Facebook login page user interface using Tailwind CSS, a utility-first CSS framework.
+A simple clone of the Facebook login page user interface, created with HTML, Tailwind CSS, and Vite.
+
+## Features
+
+- Responsive design for various screen sizes.
+- Styled with Tailwind CSS for a modern and clean look.
+- Minimalistic UI resembling Facebook's login page.
 
 ## Technologies Used
 
 - HTML
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
 
-## Preview
+## Visit Here:
 
-![Facebook Login Page UI Clone](screenshot.png)
+-[Facebook Login Page UI Clone](https://arnavmakode.github.io/Facebook-Login-Page-UI/)
