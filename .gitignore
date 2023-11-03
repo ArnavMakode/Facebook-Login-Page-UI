@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files and other generated files
+*.log
+*.log.*
+logs/
+*.tmp
+
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore npm configuration files
+.npmrc
+.npm/
+
+# Ignore any local .env files
+.env*
